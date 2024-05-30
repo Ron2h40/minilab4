@@ -11,4 +11,10 @@ int main () {
 }
 //change
 //change 2
+<<<<<<< HEAD
 //change 3
+=======
+
+
+//change12345
+>>>>>>> mybranch
