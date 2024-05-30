@@ -10,3 +10,4 @@ int main () {
   cout << a.getX() << endl;
 }
 //change
+//change 2
